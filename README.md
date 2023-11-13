@@ -15,8 +15,11 @@ Getting started
 To get started, clone the repository and install the dependencies:
 
 `git clone https://github.com/your-username/react-native-calculator-app.git`
+
 `cd react-native-calculator-app`
+
 `npm install`
+
 Once the dependencies are installed, you can start the app:
 
 `react-native run-ios`
